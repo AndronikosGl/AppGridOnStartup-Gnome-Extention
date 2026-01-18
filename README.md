@@ -1,1 +1,1 @@
-Makes it possible so Gnome goes to the app grid instead of the activities overview on startup
+A gnome extention that lets user start from the app grid instead of the useless empty activities overview
