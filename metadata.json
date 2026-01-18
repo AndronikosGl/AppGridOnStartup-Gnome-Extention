@@ -1,0 +1,10 @@
+{
+  "uuid": "appgridstartup@anglaro",
+  "name": "App Grid On Startup",
+  "description": "Makes it possible so Gnome goes to the app grid instead of the activities overview on startup",
+  "version": 1,
+  "shell-version": ["43","44","45"],
+  "url": "https://github.com/AndronikosGl/AppGridOnStartup-Gnome-Extention"
+}
+
+
