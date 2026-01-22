@@ -1,5 +1,6 @@
 A gnome extention that lets user start from the app grid instead of the useless empty activities overview
-This version is currently for shell versions 45 up to 47
+This version is currently supported for shell versions 43 to 47
 
-https://github.com/user-attachments/assets/a6589b08-6a50-4520-bb16-bb69d236d33a
+## Demo showcase
+https://github.com/user-attachments/assets/45cab6b4-25ac-4214-8677-943c161f318c
 
