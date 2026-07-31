@@ -3,4 +3,4 @@
 A gnome extention that lets user start from the app grid instead of the useless empty activities overview
 This version is currently supported for shell versions 43 to 47
 
-NOTE: On first install, the App Grid will open once. This is expected behavior and can be ignored
+NOTE: In some cases the app grid will open when the extension is installed for the first time. This can be ignored
